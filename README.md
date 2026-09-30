@@ -24,7 +24,7 @@ Collaborated on the development of an event-commerce platform with complex busin
 - Implementing JWT-based authentication and working with authentication flows and token management.
 - Developing reliable concurrent operations using multithreading, synchronization, and locking mechanisms.
 
-🔒 The repository is private as this was a collaborative university project.
+🔒 This is a collaborative university project, and the repository is currently private.
 
 ## 🎯 Currently
 
