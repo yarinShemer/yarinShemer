@@ -7,7 +7,7 @@ I'm always motivated to explore new technologies, understand how complex systems
 ## Technologies
 
 **Languages:** Java, Python, C++, C#, C, SQL  
-**Software Development:** Spring Boot, REST APIs, WebSockets, OOP  
+**Software Development:** Spring Boot, REST APIs, WebSockets, Object-Oriented Programming (OOP)
 **Systems:** Linux, Multithreading, Synchronization, Computer Networks  
 **Tools:** Git, Docker
 
